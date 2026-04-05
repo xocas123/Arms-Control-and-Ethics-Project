@@ -1,0 +1,798 @@
+{
+  "rush_bagot_1817": {
+    "frame": "naval demilitarization / bilateral confidence-building",
+    "year": 1817,
+    "status": "in_force",
+    "category": "naval_limitation",
+    "type": "bilateral",
+    "parties": ["United States", "United Kingdom"],
+    "passages": {
+      "text": "The Naval force to be maintained upon the American Lakes by His Majesty and the Government of the United States shall henceforth be confined to the following vessels on each side: on Lake Ontario, to one vessel not exceeding one hundred tons burthen and armed with one eighteen pound cannon; on the upper Lakes, to two vessels not exceeding like burthen each and armed with like force; and on the waters of Lake Champlain, to one vessel not exceeding like burthen and armed with like force."
+    }
+  },
+  "st_petersburg_declaration_1868": {
+    "frame": "prohibition of certain projectiles / early humanitarian law",
+    "year": 1868,
+    "status": "in_force",
+    "category": "humanitarian_ihl",
+    "type": "multilateral",
+    "passages": {
+      "preamble": "Considering that the progress of civilisation should have the effect of alleviating as much as possible the calamities of war; That the only legitimate object which States should endeavour to accomplish during war is to weaken the military forces of the enemy; That this object would be exceeded by the employment of arms which uselessly aggravate the sufferings of disabled men, or render their death inevitable; That the employment of such arms would, therefore, be contrary to the laws of humanity.",
+      "prohibition": "The Contracting Parties engage mutually to renounce, in case of war among themselves, the employment by their military or naval troops of any projectile of a weight below 400 grammes, which is either explosive or charged with fulminating or inflammable substances."
+    }
+  },
+  "hague_declaration_gas_1899": {
+    "frame": "prohibition of asphyxiating projectiles",
+    "year": 1899,
+    "status": "in_force",
+    "category": "chemical",
+    "type": "multilateral",
+    "passages": {
+      "text": "The Contracting Powers agree to abstain from the use of projectiles the sole object of which is the diffusion of asphyxiating or deleterious gases."
+    }
+  },
+  "hague_declaration_dumdum_1899": {
+    "frame": "prohibition of expanding bullets",
+    "year": 1899,
+    "status": "in_force",
+    "category": "humanitarian_ihl",
+    "type": "multilateral",
+    "passages": {
+      "text": "The Contracting Powers agree to abstain from the use of bullets which expand or flatten easily in the human body, such as bullets with a hard envelope which does not entirely cover the core or is pierced with incisions."
+    }
+  },
+  "hague_iv_1907": {
+    "frame": "laws and customs of war on land",
+    "year": 1907,
+    "status": "in_force",
+    "category": "humanitarian_ihl",
+    "type": "multilateral",
+    "passages": {
+      "preamble": "Until a more complete code of the laws of war has been issued, the inhabitants and the belligerents remain under the protection and the rule of the principles of the law of nations, as they result from the usages established among civilized peoples, from the laws of humanity, and the dictates of the public conscience.",
+      "article_22": "The right of belligerents to adopt means of injuring the enemy is not unlimited.",
+      "article_23": "It is especially forbidden to employ poison or poisoned weapons; to kill or wound treacherously; to employ arms calculated to cause unnecessary suffering."
+    }
+  },
+  "versailles_disarmament_1919": {
+    "frame": "post-WWI German disarmament obligations",
+    "year": 1919,
+    "status": "terminated",
+    "category": "conventional",
+    "type": "multilateral",
+    "passages": {
+      "article_159": "The German military forces shall be organised and constituted as follows: The total number of effectives in the Army of the States constituting Germany must not exceed one hundred thousand men, including officers and establishments of depots.",
+      "article_170": "Importation into Germany of arms, munitions and war material of every kind shall be strictly prohibited.",
+      "article_198": "The armed forces of Germany must not include any military or naval air forces."
+    }
+  },
+  "washington_naval_1922": {
+    "frame": "capital ship tonnage limitation / naval arms race prevention",
+    "year": 1922,
+    "status": "terminated",
+    "category": "naval_limitation",
+    "type": "multilateral",
+    "parties": ["United States", "British Empire", "France", "Italy", "Japan"],
+    "passages": {
+      "preamble": "The United States of America, the British Empire, France, Italy and Japan, desiring to contribute to the maintenance of the general peace and to reduce the burdens of competition in armament, have resolved, with a view to accomplishing these purposes, to conclude a treaty to limit their respective naval armament.",
+      "article_iv": "The total capital ship replacement tonnage of each of the Contracting Powers shall not exceed in standard displacement: United States, 525,000 tons; British Empire, 525,000 tons; France, 175,000 tons; Italy, 175,000 tons; Japan, 315,000 tons.",
+      "article_xix": "The United States, the British Empire and Japan agree that the status quo at the time of the signing of the present Treaty, with regard to fortifications and naval bases, shall be maintained in their respective territories and possessions specified hereunder."
+    }
+  },
+  "kellogg_briand_1928": {
+    "frame": "renunciation of war as instrument of national policy",
+    "year": 1928,
+    "status": "in_force",
+    "category": "other",
+    "type": "multilateral",
+    "passages": {
+      "article_1": "The High Contracting Parties solemnly declare in the names of their respective peoples that they condemn recourse to war for the solution of international controversies, and renounce it as an instrument of national policy in their relations with one another.",
+      "article_2": "The settlement or solution of all disputes or conflicts of whatever nature or of whatever origin they may be, which may arise among them, shall never be sought except by pacific means."
+    }
+  },
+  "london_naval_1930": {
+    "frame": "extension of naval limitation to cruisers and submarines",
+    "year": 1930,
+    "status": "expired",
+    "category": "naval_limitation",
+    "type": "multilateral",
+    "parties": ["United States", "British Empire", "Japan"],
+    "passages": {
+      "article_22": "In their action with regard to merchant ships, submarines must conform to the rules of International Law to which surface vessels are subject. A warship may not sink or render incapable of navigation a merchant vessel without having first placed passengers, crew and ship's papers in a place of safety."
+    }
+  },
+  "anglo_german_naval_1935": {
+    "frame": "bilateral 35:100 naval tonnage ratio / German naval expansion limit",
+    "year": 1935,
+    "status": "terminated",
+    "category": "naval_limitation",
+    "type": "bilateral",
+    "parties": ["United Kingdom", "Germany"],
+    "passages": {
+      "ratio": "His Majesty's Government in the United Kingdom understands the German Government to desire that the ratio of the German Naval Forces to the Naval Forces of the British Empire should be defined as 35:100. His Majesty's Government in the United Kingdom regards this proposal as a permanent and definitive settlement, as between the two countries, of the question of German Naval Forces.",
+      "submarines": "Germany will adhere to the limitation laid down in Part III of the Treaty for the Limitation and Reduction of Naval Armament signed in London on April 22, 1930, in regard to the use of submarines in naval warfare."
+    }
+  },
+  "london_naval_1936": {
+    "frame": "qualitative naval limitation / escalator clause",
+    "year": 1936,
+    "status": "expired",
+    "category": "naval_limitation",
+    "type": "multilateral",
+    "parties": ["United States", "United Kingdom", "France"],
+    "passages": {
+      "article_4": "No vessel of war shall be constructed or acquired by any High Contracting Party with a standard displacement in excess of 35,000 tons.",
+      "escalator": "If any High Contracting Party should be satisfied that a country not party to the present Treaty proposes to construct any vessel which would exceed the limits prescribed herein, that High Contracting Party shall notify the other High Contracting Parties, whereupon the limitations specified herein shall be subject to review."
+    }
+  },
+  "geneva_protocol_1925": {
+    "frame": "prohibition of chemical and biological methods of warfare",
+    "year": 1925,
+    "status": "in_force",
+    "category": "chemical",
+    "type": "multilateral",
+    "passages": {
+      "text": "Whereas the use in war of asphyxiating, poisonous or other gases, and of all analogous liquids, materials or devices, has been justly condemned by the general opinion of the civilised world; And whereas the prohibition of such use has been declared in Treaties to which the majority of Powers of the world are Parties; The High Contracting Parties, so far as they are not already Parties to Treaties prohibiting such use, accept this prohibition, agree to extend this prohibition to the use of bacteriological methods of warfare and agree to be bound as between themselves according to the terms of this declaration."
+    }
+  },
+  "antarctic_1959": {
+    "frame": "demilitarization of Antarctica / peaceful use only",
+    "year": 1959,
+    "status": "in_force",
+    "category": "other",
+    "type": "multilateral",
+    "passages": {
+      "article_1": "Antarctica shall be used for peaceful purposes only. There shall be prohibited, inter alia, any measures of a military nature, such as the establishment of military bases and fortifications, the carrying out of military manoeuvres, as well as the testing of any type of weapons.",
+      "article_5": "Any nuclear explosions in Antarctica and the disposal there of radioactive waste material shall be prohibited."
+    }
+  },
+  "hotline_1963": {
+    "frame": "direct communications link / crisis communication between superpowers",
+    "year": 1963,
+    "status": "in_force",
+    "category": "other",
+    "type": "bilateral",
+    "parties": ["United States", "USSR/Russia"],
+    "passages": {
+      "article_1": "For use in time of emergency the Government of the United States of America and the Government of the Union of Soviet Socialist Republics shall maintain between them a direct communications link.",
+      "purpose": "The Parties have agreed that in the event of an emergency, rapid reliable communications would be available to the Governments of both Parties."
+    }
+  },
+  "ptbt_1963": {
+    "frame": "prohibition of nuclear tests in atmosphere, outer space, and underwater",
+    "year": 1963,
+    "status": "in_force",
+    "category": "nuclear",
+    "type": "multilateral",
+    "passages": {
+      "preamble": "Seeking to achieve the discontinuance of all test explosions of nuclear weapons for all time, determined to continue negotiations to this end, and desiring to put an end to the contamination of man's environment by radioactive substances.",
+      "article_1": "Each of the Parties to this Treaty undertakes to prohibit, to prevent, and not to carry out any nuclear weapon test explosion, or any other nuclear explosion, at any place under its jurisdiction or control: in the atmosphere; beyond its limits, including outer space; or under water, including territorial waters or high seas."
+    }
+  },
+  "outer_space_1967": {
+    "frame": "peaceful use of outer space / prohibition of WMD in orbit",
+    "year": 1967,
+    "status": "in_force",
+    "category": "nuclear",
+    "type": "multilateral",
+    "passages": {
+      "article_1": "The exploration and use of outer space, including the Moon and other celestial bodies, shall be carried out for the benefit and in the interests of all countries and shall be the province of all mankind.",
+      "article_4": "States Parties to the Treaty undertake not to place in orbit around the Earth any objects carrying nuclear weapons or any other kinds of weapons of mass destruction, install such weapons on celestial bodies, or station such weapons in outer space in any other manner. The Moon and other celestial bodies shall be used by all States Parties to the Treaty exclusively for peaceful purposes."
+    }
+  },
+  "tlatelolco_1967": {
+    "frame": "nuclear-weapon-free zone in Latin America and the Caribbean",
+    "year": 1967,
+    "status": "in_force",
+    "category": "nwfz",
+    "type": "multilateral",
+    "passages": {
+      "article_1": "The Contracting Parties hereby undertake to use exclusively for peaceful purposes the nuclear material and facilities which are under their jurisdiction, and to prohibit and prevent in their respective territories the testing, use, manufacture, production or acquisition by any means whatsoever of any nuclear weapons.",
+      "preamble": "Convinced that the Treaty for the Prohibition of Nuclear Weapons in Latin America and the Caribbean represents an important step towards ensuring the non-proliferation of nuclear weapons."
+    }
+  },
+  "npt_1968": {
+    "frame": "non-proliferation / disarmament obligation",
+    "year": 1968,
+    "status": "in_force",
+    "category": "nuclear",
+    "type": "multilateral",
+    "passages": {
+      "preamble": "Declaring their intention to achieve at the earliest possible date the cessation of the nuclear arms race and to undertake effective measures in the direction of nuclear disarmament, and urging the cooperation of all States in the attainment of this objective.",
+      "article_ii": "Each non-nuclear-weapon State Party to the Treaty undertakes not to receive the transfer from any transferor whatsoever of nuclear weapons or other nuclear explosive devices; not to manufacture or otherwise acquire nuclear weapons or other nuclear explosive devices; and not to seek or receive any assistance in the manufacture of nuclear weapons or other nuclear explosive devices.",
+      "article_vi": "Each of the Parties to the Treaty undertakes to pursue negotiations in good faith on effective measures relating to cessation of the nuclear arms race at an early date and to nuclear disarmament, and on a treaty on general and complete disarmament under strict and effective international control."
+    }
+  },
+  "seabed_arms_control_1971": {
+    "frame": "prohibition of WMD on seabed and ocean floor",
+    "year": 1971,
+    "status": "in_force",
+    "category": "nuclear",
+    "type": "multilateral",
+    "passages": {
+      "article_1": "The States Parties to this Treaty undertake not to emplant or emplace on the seabed and the ocean floor and in the subsoil thereof beyond the outer limit of a seabed zone any nuclear weapons or any other types of weapons of mass destruction as well as structures, launching installations or any other facilities specifically designed for storing, testing or using such weapons."
+    }
+  },
+  "accidents_measures_1971": {
+    "frame": "measures to reduce risk of nuclear war outbreak / accident notification",
+    "year": 1971,
+    "status": "in_force",
+    "category": "nuclear",
+    "type": "bilateral",
+    "parties": ["United States", "USSR/Russia"],
+    "passages": {
+      "article_2": "The Parties undertake to notify each other immediately in the event of an accidental, unauthorized or any other unexplained incident involving a possible detonation of a nuclear weapon which could create a risk of outbreak of nuclear war.",
+      "article_3": "The Parties undertake to notify each other immediately in the event of detection by missile warning systems of unidentified objects, or in the event of signs of interference with these systems or with related communications facilities, if such occurrences could create a risk of outbreak of nuclear war between the two countries."
+    }
+  },
+  "incidents_at_sea_1972": {
+    "frame": "prevention of naval incidents / rules of conduct at sea",
+    "year": 1972,
+    "status": "in_force",
+    "category": "other",
+    "type": "bilateral",
+    "parties": ["United States", "USSR/Russia"],
+    "passages": {
+      "article_3": "Ships of the Parties shall not make simulated attacks by aiming guns, missile launchers, torpedo tubes, and other weapons at non-military ships of the other Party.",
+      "article_2": "The Parties shall take measures to instruct their respective Naval Forces that they are to observe strictly the letter and spirit of the International Regulations for Preventing Collisions at Sea."
+    }
+  },
+  "salt_i_1972": {
+    "frame": "strategic offensive arms limitation / ICBM and SLBM freeze",
+    "year": 1972,
+    "status": "expired",
+    "category": "nuclear",
+    "type": "bilateral",
+    "parties": ["United States", "USSR"],
+    "passages": {
+      "preamble": "The United States of America and the Union of Soviet Socialist Republics, committed to the objective of limiting strategic arms, proceeding from the premise that nuclear war would have devastating consequences for all mankind.",
+      "article_1": "The Parties undertake not to construct additional fixed land-based intercontinental ballistic missile (ICBM) launchers after July 1, 1972.",
+      "article_3": "The Parties undertake to limit submarine-launched ballistic missile (SLBM) launchers and modern ballistic missile submarines to the numbers operational and under construction on the date of signature of this Interim Agreement."
+    }
+  },
+  "abm_1972": {
+    "frame": "limitation of anti-ballistic missile systems",
+    "year": 1972,
+    "status": "terminated",
+    "category": "nuclear",
+    "type": "bilateral",
+    "parties": ["United States", "USSR"],
+    "passages": {
+      "preamble": "Proceeding from the premise that nuclear war would have devastating consequences for all mankind, considering that effective measures to limit anti-ballistic missile systems would be a substantial factor in curbing the race in strategic offensive arms and would lead to a decrease in the risk of outbreak of war.",
+      "article_1": "Each Party undertakes to limit anti-ballistic missile (ABM) systems and to adopt other measures in accordance with the provisions of this Treaty.",
+      "article_5": "Each Party undertakes not to develop, test, or deploy ABM systems or components which are sea-based, air-based, space-based, or mobile land-based."
+    }
+  },
+  "bwc_1972": {
+    "frame": "prohibition and elimination of biological and toxin weapons",
+    "year": 1972,
+    "status": "in_force",
+    "category": "biological",
+    "type": "multilateral",
+    "passages": {
+      "preamble": "Determined to act with a view to achieving effective progress towards general and complete disarmament, including the prohibition and elimination of all types of weapons of mass destruction, and convinced that the prohibition of the development, production and stockpiling of bacteriological and toxin weapons represent necessary steps towards the achievement of general and complete disarmament.",
+      "article_1": "Each State Party to this Convention undertakes never in any circumstances to develop, produce, stockpile or otherwise acquire or retain: microbial or other biological agents, or toxins whatever their origin or method of production, of types and in quantities that have no justification for prophylactic, protective, or other peaceful purposes; weapons, equipment or means of delivery designed to use such agents or toxins for hostile purposes or in armed conflict."
+    }
+  },
+  "prevention_nuclear_war_1973": {
+    "frame": "obligation to consult and prevent nuclear conflict",
+    "year": 1973,
+    "status": "in_force",
+    "category": "nuclear",
+    "type": "bilateral",
+    "parties": ["United States", "USSR/Russia"],
+    "passages": {
+      "article_1": "The United States and the Soviet Union agree that an objective of their policies is to remove the danger of nuclear war and of the use of nuclear weapons. Accordingly, the Parties agree that they will act in such a manner as to prevent the development of situations capable of causing a dangerous exacerbation of their relations, as to avoid military confrontations, and as to exclude the outbreak of nuclear war between them and between either of the Parties and other countries.",
+      "article_4": "If at any time relations between the Parties or between either Party and other countries appear to involve the risk of a nuclear conflict, the United States and the Soviet Union shall immediately enter into urgent consultations with each other."
+    }
+  },
+  "ttbt_1974": {
+    "frame": "150kt yield ceiling on underground nuclear weapon tests",
+    "year": 1974,
+    "status": "in_force",
+    "category": "nuclear",
+    "type": "bilateral",
+    "parties": ["United States", "USSR/Russia"],
+    "passages": {
+      "article_1": "Each Party undertakes to prohibit, to prevent, and not to carry out any underground nuclear weapon test having a yield exceeding 150 kilotons at any place under its jurisdiction or control."
+    }
+  },
+  "pnet_1976": {
+    "frame": "150kt yield limit on underground peaceful nuclear explosions",
+    "year": 1976,
+    "status": "in_force",
+    "category": "nuclear",
+    "type": "bilateral",
+    "parties": ["United States", "USSR/Russia"],
+    "passages": {
+      "article_1": "The Parties to the Treaty on Underground Nuclear Explosions for Peaceful Purposes undertake to prohibit, prevent and not to carry out any individual underground nuclear explosion having a yield exceeding 150 kilotons, and any group explosion having an aggregate yield exceeding 1500 kilotons."
+    }
+  },
+  "enmod_1976": {
+    "frame": "prohibition of environmental modification as a method of warfare",
+    "year": 1976,
+    "status": "in_force",
+    "category": "other",
+    "type": "multilateral",
+    "passages": {
+      "preamble": "Recognizing that military or any other hostile use of environmental modification techniques could have effects extremely harmful to human welfare, being guided by the interest of consolidating peace, and wishing to contribute to the cause of halting the arms race.",
+      "article_1": "Each State Party to this Convention undertakes not to engage in military or any other hostile use of environmental modification techniques having widespread, long-lasting or severe effects as the means of destruction, damage or injury to any other State Party."
+    }
+  },
+  "salt_ii_1979": {
+    "frame": "limits on strategic delivery vehicles and MIRVed warheads",
+    "year": 1979,
+    "status": "not_in_force",
+    "category": "nuclear",
+    "type": "bilateral",
+    "parties": ["United States", "USSR"],
+    "passages": {
+      "preamble": "Guided by the principle of equality and equal security, conscious that nuclear war would have devastating consequences for all mankind, proceeding from the Basic Principles of Relations between the United States of America and the Union of Soviet Socialist Republics.",
+      "article_2": "Each Party undertakes not to construct additional fixed land-based ICBM launchers. Each Party undertakes not to relocate fixed ICBM launchers."
+    }
+  },
+  "moon_agreement_1979": {
+    "frame": "peaceful use of Moon and celestial bodies / common heritage of mankind",
+    "year": 1979,
+    "status": "in_force",
+    "category": "other",
+    "type": "multilateral",
+    "passages": {
+      "article_3": "The Moon shall be used by all States Parties exclusively for peaceful purposes. The threat or use of force or any other hostile act or threat of hostile act on the Moon is prohibited.",
+      "article_11": "The Moon and its natural resources are the common heritage of mankind."
+    }
+  },
+  "ccw_1980": {
+    "frame": "prohibition and restriction of specific conventional weapons causing superfluous injury",
+    "year": 1980,
+    "status": "in_force",
+    "category": "conventional",
+    "type": "multilateral",
+    "passages": {
+      "preamble": "Basing themselves on the principle of international law that the right of the parties to an armed conflict to choose methods or means of warfare is not unlimited, and on the principle that prohibits the employment in armed conflicts of weapons, projectiles and material and methods of warfare of a nature to cause superfluous injury or unnecessary suffering.",
+      "article_1": "This Convention and its annexed Protocols shall apply in the situations referred to in Article 2 common to the Geneva Conventions of 12 August 1949 for the Protection of War Victims."
+    }
+  },
+  "ccw_protocol_ii_mines": {
+    "frame": "restrictions on mines, booby-traps and other devices",
+    "year": 1980,
+    "status": "in_force",
+    "category": "conventional",
+    "type": "multilateral",
+    "passages": {
+      "article_3": "It is prohibited to use mines, booby-traps or other devices in any city, town, village or other area containing a concentration of civilians in which combat between ground forces is not taking place or does not appear to be imminent, unless either they are placed on or in the close vicinity of a military objective, or measures are taken to protect civilians from their effects."
+    }
+  },
+  "ccw_protocol_iii_incendiary": {
+    "frame": "restrictions on incendiary weapons against civilians and civilian objects",
+    "year": 1980,
+    "status": "in_force",
+    "category": "conventional",
+    "type": "multilateral",
+    "passages": {
+      "article_2": "It is prohibited in all circumstances to make the civilian population as such, individual civilians or civilian objects the object of attack by incendiary weapons."
+    }
+  },
+  "rarotonga_1985": {
+    "frame": "nuclear-weapon-free zone in the South Pacific",
+    "year": 1985,
+    "status": "in_force",
+    "category": "nwfz",
+    "type": "multilateral",
+    "passages": {
+      "preamble": "Determined to preserve the South Pacific as a zone free of nuclear weapons and to act together in furtherance of the common security interests of the peoples of the South Pacific.",
+      "article_3": "Each Party undertakes not to manufacture or otherwise acquire, possess or have control over any nuclear explosive device by any means anywhere inside or outside the South Pacific Nuclear Free Zone."
+    }
+  },
+  "inf_1987": {
+    "frame": "elimination of intermediate and shorter-range ground-launched missiles",
+    "year": 1987,
+    "status": "terminated",
+    "category": "nuclear",
+    "type": "bilateral",
+    "parties": ["United States", "USSR/Russia"],
+    "passages": {
+      "preamble": "Guided by the objective of strengthening strategic stability, convinced that the measures set forth in this Treaty will help to reduce the risk of outbreak of war and strengthen international peace and security.",
+      "article_1": "In accordance with the provisions of this Treaty, each Party shall eliminate its intermediate-range and shorter-range missiles, not have such systems thereafter, and carry out the other obligations set forth in this Treaty."
+    }
+  },
+  "nuclear_risk_reduction_centers_1987": {
+    "frame": "dedicated communication centers for arms control notifications",
+    "year": 1987,
+    "status": "in_force",
+    "category": "nuclear",
+    "type": "bilateral",
+    "parties": ["United States", "USSR/Russia"],
+    "passages": {
+      "article_1": "The Parties hereby establish Nuclear Risk Reduction Centers which shall be operated by each Party to transmit and receive notifications and other information as may be agreed in accordance with this Agreement and any future arrangements."
+    }
+  },
+  "cfe_1990": {
+    "frame": "limits on conventional armed forces in Europe / surprise attack prevention",
+    "year": 1990,
+    "status": "terminated",
+    "category": "conventional",
+    "type": "multilateral",
+    "passages": {
+      "preamble": "Guided by the objective of establishing a secure and stable balance of conventional armed forces in Europe at lower levels than heretofore, seeking to eliminate, as a matter of high priority, the capability for launching surprise attack and for initiating large-scale offensive action in Europe.",
+      "article_4": "Within the area of application, each State Party shall limit and, as necessary, reduce its battle tanks, armoured combat vehicles, artillery, combat aircraft and combat helicopters so that the aggregate numbers do not exceed specified limits."
+    }
+  },
+  "start_i_1991": {
+    "frame": "50% reduction in strategic nuclear delivery vehicles",
+    "year": 1991,
+    "status": "expired",
+    "category": "nuclear",
+    "type": "bilateral",
+    "parties": ["United States", "USSR/Russia"],
+    "passages": {
+      "preamble": "Conscious that nuclear war would have devastating consequences for all mankind, mindful of their obligation under Article VI of the Treaty on the Non-Proliferation of Nuclear Weapons to pursue negotiations in good faith on effective measures relating to cessation of the nuclear arms race and to nuclear disarmament.",
+      "article_2": "Each Party shall reduce and limit its ICBMs and ICBM launchers, SLBMs and SLBM launchers, heavy bombers, ICBM warheads, SLBM warheads, and heavy bomber armaments to the aggregate numbers specified in this Article."
+    }
+  },
+  "nunn_lugar_1991": {
+    "frame": "cooperative threat reduction / dismantlement of former Soviet WMD stockpiles",
+    "year": 1991,
+    "status": "in_force",
+    "category": "nuclear",
+    "type": "bilateral",
+    "parties": ["United States", "Former Soviet states"],
+    "passages": {
+      "purpose": "The Cooperative Threat Reduction program provides United States assistance to facilitate the safe and secure dismantlement of nuclear weapons, and to prevent nuclear weapons, materials and related technology from being diverted to terrorist or other unauthorized uses.",
+      "congress": "The Congress finds that it is in the national security interest of the United States to facilitate the safe and secure dismantlement of weapons of mass destruction and to prevent their proliferation."
+    }
+  },
+  "open_skies_1992": {
+    "frame": "mutual aerial observation / military transparency regime",
+    "year": 1992,
+    "status": "in_force",
+    "category": "conventional",
+    "type": "multilateral",
+    "passages": {
+      "preamble": "Desiring to contribute to the further development and strengthening of peace, stability and cooperative security in the Euro-Atlantic area, convinced that an Open Skies regime will make an important contribution to increased transparency and confidence, as well as to facilitate the monitoring of compliance with existing or future arms control agreements.",
+      "article_1": "This Treaty establishes a programme of unarmed aerial surveillance flights over the territories of its signatories."
+    }
+  },
+  "start_ii_1993": {
+    "frame": "elimination of MIRVed ICBMs / further strategic warhead reductions",
+    "year": 1993,
+    "status": "not_in_force",
+    "category": "nuclear",
+    "type": "bilateral",
+    "parties": ["United States", "Russia"],
+    "passages": {
+      "article_1": "Each Party shall reduce and limit its strategic nuclear forces, and shall carry out the other obligations set forth in this Treaty.",
+      "article_2": "Each Party shall meet the following requirements: the aggregate number of warheads attributed to heavy ICBMs shall be zero; the aggregate number of warheads attributed to ICBMs and SLBMs shall not exceed a number between 3800 and 4250 for each Party."
+    }
+  },
+  "cwc_1993": {
+    "frame": "comprehensive prohibition and elimination of chemical weapons",
+    "year": 1993,
+    "status": "in_force",
+    "category": "chemical",
+    "type": "multilateral",
+    "passages": {
+      "preamble": "Determined for the sake of all mankind, to exclude completely the possibility of the use of chemical weapons, thereby complementing the obligations assumed under the Geneva Protocol of 1925.",
+      "article_1": "Each State Party to this Convention undertakes never under any circumstances to: develop, produce, otherwise acquire, stockpile or retain chemical weapons, or transfer, directly or indirectly, chemical weapons to anyone; use chemical weapons; engage in any military preparations to use chemical weapons; assist, encourage or induce, in any way, anyone to engage in any activity prohibited to a State Party under this Convention."
+    }
+  },
+  "budapest_memorandum_1994": {
+    "frame": "security assurances to Ukraine in exchange for nuclear disarmament",
+    "year": 1994,
+    "status": "in_force",
+    "category": "nuclear",
+    "type": "multilateral",
+    "parties": ["United States", "United Kingdom", "Russia", "Ukraine"],
+    "passages": {
+      "paragraph_1": "The United States of America, the Russian Federation, and the United Kingdom of Great Britain and Northern Ireland reaffirm their commitment to Ukraine, in accordance with the principles of the Final Act of the Conference on Security and Cooperation in Europe, to respect the independence and sovereignty and the existing borders of Ukraine.",
+      "paragraph_2": "The United States of America, the Russian Federation, and the United Kingdom of Great Britain and Northern Ireland reaffirm their obligation to refrain from the threat or use of force against the territorial integrity or political independence of Ukraine."
+    }
+  },
+  "lisbon_protocol_1992": {
+    "frame": "transfer of START I obligations to USSR successor states",
+    "year": 1992,
+    "status": "expired",
+    "category": "nuclear",
+    "type": "multilateral",
+    "parties": ["United States", "Russia", "Ukraine", "Belarus", "Kazakhstan"],
+    "passages": {
+      "text": "The Republic of Belarus, the Republic of Kazakhstan, the Russian Federation, and Ukraine, as successor states of the Union of Soviet Socialist Republics in connection with the Treaty, and the United States of America agree that the obligations of the Union of Soviet Socialist Republics under the Treaty shall be assumed by the Republic of Belarus, the Republic of Kazakhstan, the Russian Federation, and Ukraine."
+    }
+  },
+  "ccw_protocol_iv_lasers_1995": {
+    "frame": "prohibition of blinding laser weapons",
+    "year": 1995,
+    "status": "in_force",
+    "category": "conventional",
+    "type": "multilateral",
+    "passages": {
+      "article_1": "It is prohibited to employ laser weapons specifically designed, as their sole combat function or as one of their combat functions, to cause permanent blindness to unenhanced vision, that is to the naked eye or to the eye with corrective eyesight devices."
+    }
+  },
+  "bangkok_1995": {
+    "frame": "nuclear-weapon-free zone in Southeast Asia",
+    "year": 1995,
+    "status": "in_force",
+    "category": "nwfz",
+    "type": "multilateral",
+    "passages": {
+      "preamble": "Determined to keep Southeast Asia free from nuclear weapons and the threat of nuclear weapons.",
+      "article_3": "Each State Party undertakes not to develop, manufacture or otherwise acquire, possess or have control over nuclear weapons; not to station or transport nuclear weapons by any means; not to test or use nuclear weapons."
+    }
+  },
+  "ctbt_1996": {
+    "frame": "comprehensive prohibition of nuclear test explosions",
+    "year": 1996,
+    "status": "not_in_force",
+    "category": "nuclear",
+    "type": "multilateral",
+    "passages": {
+      "preamble": "Recalling that the General Assembly of the United Nations has adopted resolutions calling for the conclusion of a comprehensive nuclear-test-ban treaty; Recognizing that cessation of all nuclear weapon test explosions constitutes an effective measure of nuclear disarmament and non-proliferation in all its aspects.",
+      "article_1": "Each State Party undertakes not to carry out any nuclear weapon test explosion or any other nuclear explosion, and to prohibit and prevent any such nuclear explosion at any place under its jurisdiction or control."
+    }
+  },
+  "pelindaba_1996": {
+    "frame": "nuclear-weapon-free zone in Africa",
+    "year": 1996,
+    "status": "in_force",
+    "category": "nwfz",
+    "type": "multilateral",
+    "passages": {
+      "preamble": "Recognizing that the African Nuclear-Weapon-Free Zone Treaty is an important measure towards ensuring non-proliferation of nuclear weapons, the promotion of general and complete disarmament, and the strengthening of peace and security on the continent.",
+      "article_3": "Each Party undertakes not to conduct research on, develop, manufacture, stockpile or otherwise acquire, possess or have control over any nuclear device by any means anywhere."
+    }
+  },
+  "florence_agreement_1996": {
+    "frame": "sub-regional conventional arms limits in former Yugoslavia",
+    "year": 1996,
+    "status": "in_force",
+    "category": "conventional",
+    "type": "multilateral",
+    "passages": {
+      "preamble": "Committed to putting an end to the devastating conflict in the former Yugoslavia, and to establishing durable peace and stability in the region, the Parties have agreed to limit the levels of armaments of the armed forces of each Party."
+    }
+  },
+  "wassenaar_1996": {
+    "frame": "conventional arms and dual-use goods and technologies export controls",
+    "year": 1996,
+    "status": "in_force",
+    "category": "export_control",
+    "type": "multilateral",
+    "passages": {
+      "objectives": "The Wassenaar Arrangement has been established in order to contribute to regional and international security and stability, by promoting transparency and greater responsibility in transfers of conventional arms and dual-use goods and technologies, thus preventing destabilising accumulations.",
+      "guidelines": "Participating States will, on the basis of national policies, exercise restraint in considering transfer requests for items on the control lists, in cases where the items are for use in or diversion to countries whose behaviour is a cause of serious concern with respect to international and regional peace and security."
+    }
+  },
+  "ottawa_1997": {
+    "frame": "humanitarian ban on anti-personnel landmines",
+    "year": 1997,
+    "status": "in_force",
+    "category": "conventional",
+    "type": "multilateral",
+    "passages": {
+      "preamble": "Determined to put an end for all time to the suffering and casualties caused by anti-personnel mines, that kill or maim hundreds of people every week, mostly innocent and defenceless civilians and especially children, obstruct economic development and reconstruction, inhibit the repatriation of refugees and internally displaced persons, and have other severe consequences for years after emplacement.",
+      "article_1": "Each State Party undertakes never under any circumstances to use anti-personnel mines; develop, produce, otherwise acquire, stockpile, retain or transfer to anyone, directly or indirectly, anti-personnel mines; assist, encourage or induce, in any way, anyone to engage in any activity prohibited to a State Party under this Convention."
+    }
+  },
+  "cifta_1997": {
+    "frame": "illicit manufacturing and trafficking of conventional arms in the Americas",
+    "year": 1997,
+    "status": "in_force",
+    "category": "conventional",
+    "type": "multilateral",
+    "passages": {
+      "article_4": "States Parties shall establish as criminal offences under their domestic law the illicit manufacturing of and trafficking in firearms, ammunition, explosives, and other related materials."
+    }
+  },
+  "rome_statute_1998": {
+    "frame": "ICC jurisdiction over war crimes including prohibited weapons use",
+    "year": 1998,
+    "status": "in_force",
+    "category": "humanitarian_ihl",
+    "type": "multilateral",
+    "passages": {
+      "article_8": "The Court shall have jurisdiction in respect of war crimes in particular when committed as part of a plan or policy. War crimes include employing poison or poisoned weapons; employing prohibited gases, liquids, materials or devices; employing bullets which expand or flatten easily in the human body; intentionally directing attacks against the civilian population as such."
+    }
+  },
+  "un_firearms_protocol_2001": {
+    "frame": "prevention of illicit manufacturing and trafficking of firearms",
+    "year": 2001,
+    "status": "in_force",
+    "category": "conventional",
+    "type": "multilateral",
+    "passages": {
+      "article_5": "Each State Party shall adopt such legislative or other measures as may be necessary to establish as criminal offences: illicit manufacturing of firearms, their parts and components and ammunition; illicit trafficking in firearms, their parts and components and ammunition."
+    }
+  },
+  "un_poa_salw_2001": {
+    "frame": "programme of action on illicit small arms and light weapons trade",
+    "year": 2001,
+    "status": "in_force",
+    "category": "conventional",
+    "type": "multilateral",
+    "passages": {
+      "text": "We commit ourselves to implement the Programme of Action to Prevent, Combat and Eradicate the Illicit Trade in Small Arms and Light Weapons in All Its Aspects, and undertake to take the following measures at the national, regional and global levels."
+    }
+  },
+  "hcoc_2002": {
+    "frame": "transparency and confidence-building for ballistic missile programmes",
+    "year": 2002,
+    "status": "in_force",
+    "category": "other",
+    "type": "multilateral",
+    "passages": {
+      "text": "Subscribing States recognise the importance of confidence and security-building measures for ballistic missile programmes. They commit to provide pre-launch notifications on their ballistic missile and space launch vehicle launches and tests, and to submit annual declarations regarding their ballistic missile policies."
+    }
+  },
+  "sort_2002": {
+    "frame": "strategic offensive reductions to 1700-2200 deployed warheads",
+    "year": 2002,
+    "status": "expired",
+    "category": "nuclear",
+    "type": "bilateral",
+    "parties": ["United States", "Russia"],
+    "passages": {
+      "preamble": "Mindful of their obligations under Article VI of the Treaty on the Non-Proliferation of Nuclear Weapons, and guided by the principle of indivisibility of security.",
+      "article_1": "Each Party shall reduce and limit strategic nuclear warheads so that by December 31, 2012, the aggregate number of such warheads does not exceed 1700-2200 for each Party."
+    }
+  },
+  "ccw_protocol_v_erw_2003": {
+    "frame": "clearance of explosive remnants of war",
+    "year": 2003,
+    "status": "in_force",
+    "category": "conventional",
+    "type": "multilateral",
+    "passages": {
+      "article_3": "After the cessation of active hostilities and as soon as feasible, each High Contracting Party and party to an armed conflict shall mark and clear, remove or destroy explosive remnants of war in affected territories under its control."
+    }
+  },
+  "nairobi_protocol_2004": {
+    "frame": "small arms control in the Great Lakes and Horn of Africa region",
+    "year": 2004,
+    "status": "in_force",
+    "category": "conventional",
+    "type": "multilateral",
+    "passages": {
+      "article_4": "State Parties shall criminalise the illegal manufacture, trafficking, possession and use of small arms and light weapons, their parts and components and ammunition, in their national legislation and take measures to combat such crimes."
+    }
+  },
+  "semipalatinsk_2006": {
+    "frame": "nuclear-weapon-free zone in Central Asia",
+    "year": 2006,
+    "status": "in_force",
+    "category": "nwfz",
+    "type": "multilateral",
+    "passages": {
+      "preamble": "Reaffirming their commitment to the objectives and purposes of the Charter of the United Nations, and noting with concern the ongoing danger to humanity posed by the risk of nuclear war and the nuclear arsenals maintained by nuclear-weapon states.",
+      "article_2": "Each Party undertakes not to research, develop, manufacture, produce, otherwise acquire, possess, stockpile or control any nuclear weapon or other nuclear explosive device; not to allow, in its territory, any stationing, installation, storage or operation of any nuclear weapon or other nuclear explosive device."
+    }
+  },
+  "ecowas_convention_2006": {
+    "frame": "small arms and light weapons control in West Africa",
+    "year": 2006,
+    "status": "in_force",
+    "category": "conventional",
+    "type": "multilateral",
+    "passages": {
+      "article_3": "Member States shall prohibit the transfer of small arms and light weapons to non-State actors without the express authorization of the government of the importing Member State and shall take all necessary measures to prevent such transfers."
+    }
+  },
+  "ccm_2008": {
+    "frame": "humanitarian prohibition of cluster munitions",
+    "year": 2008,
+    "status": "in_force",
+    "category": "conventional",
+    "type": "multilateral",
+    "passages": {
+      "preamble": "Deeply concerned that civilian populations and individual civilians continue to bear the brunt of armed conflict, and determined to put an end for all time to the suffering and casualties caused by cluster munitions at the time of their use, when they fail to function as intended or when they are abandoned.",
+      "article_1": "Each State Party undertakes never under any circumstances to use cluster munitions; develop, produce, otherwise acquire, stockpile, retain or transfer to anyone, directly or indirectly, cluster munitions; assist, encourage or induce anyone to engage in any activity prohibited to a State Party under this Convention."
+    }
+  },
+  "kinshasa_convention_2010": {
+    "frame": "small arms and light weapons control in Central Africa",
+    "year": 2010,
+    "status": "in_force",
+    "category": "conventional",
+    "type": "multilateral",
+    "passages": {
+      "article_3": "State Parties undertake to prohibit the transfer of small arms and light weapons to non-State actors without the express authorization of the government of the importing State Party, in accordance with their laws and regulations."
+    }
+  },
+  "new_start_2010": {
+    "frame": "reduction to 1550 deployed strategic warheads / 700 delivery vehicles",
+    "year": 2010,
+    "status": "in_force",
+    "category": "nuclear",
+    "type": "bilateral",
+    "parties": ["United States", "Russia"],
+    "passages": {
+      "preamble": "Mindful of their obligations under Article VI of the Treaty on the Non-Proliferation of Nuclear Weapons, recognizing the existence of the interrelationship between strategic offensive arms and strategic defensive arms.",
+      "article_2": "Each Party shall reduce and limit its strategic offensive arms so that seven years after entry into force of this Treaty and thereafter, the aggregate numbers do not exceed: 700 for deployed ICBMs, deployed SLBMs, and deployed heavy bombers; 1550 for warheads on deployed ICBMs, warheads on deployed SLBMs, and nuclear warheads counted for deployed heavy bombers; 800 for deployed and non-deployed ICBM launchers, deployed and non-deployed SLBM launchers, and deployed and non-deployed heavy bombers."
+    }
+  },
+  "att_2013": {
+    "frame": "responsible transfer / human rights risk assessment for conventional arms",
+    "year": 2013,
+    "status": "in_force",
+    "category": "conventional",
+    "type": "multilateral",
+    "passages": {
+      "preamble": "Recognizing the legitimate political, security, economic and commercial interests of States in the international trade in conventional arms. Reaffirming the right of all States to manufacture, acquire, export, import and transfer conventional arms. Mindful of the importance of regional peace, security and stability.",
+      "article_6": "A State Party shall not authorize any transfer of conventional arms if it has knowledge at the time of authorization that the arms or items would be used in the commission of genocide, crimes against humanity, grave breaches of the Geneva Conventions of 1949, attacks directed against civilian objects or civilians protected as such, or other war crimes.",
+      "article_7": "Each exporting State Party, prior to authorization of export of conventional arms, shall assess the potential that the conventional arms to be exported would contribute to or undermine peace and security, and assess the potential that they could be used to commit or facilitate a serious violation of international humanitarian law or a serious violation of international human rights law."
+    }
+  },
+  "tpnw_2017": {
+    "frame": "humanitarian prohibition of nuclear weapons",
+    "year": 2017,
+    "status": "in_force",
+    "category": "nuclear",
+    "type": "multilateral",
+    "passages": {
+      "preamble": "Deeply concerned about the catastrophic humanitarian consequences that would result from any use of nuclear weapons, and recognizing the consequent need to completely eliminate such weapons, which remains the only way to guarantee that nuclear weapons are never used again under any circumstances. Mindful of the unacceptable suffering of and harm caused to the victims of the use of nuclear weapons (hibakusha), as well as of those affected by the testing of nuclear weapons.",
+      "article_1": "Each State Party undertakes never under any circumstances to develop, test, produce, manufacture, otherwise acquire, possess or stockpile nuclear weapons or other nuclear explosive devices; transfer to any recipient whatsoever nuclear weapons or other nuclear explosive devices or control over such weapons or explosive devices directly or indirectly; use or threaten to use nuclear weapons or other nuclear explosive devices."
+    }
+  },
+  "nsg_guidelines": {
+    "frame": "nuclear export controls / supplier guidelines for nuclear materials",
+    "year": 1975,
+    "status": "in_force",
+    "category": "export_control",
+    "type": "multilateral",
+    "passages": {
+      "guidelines": "Supplier countries should transfer trigger list items only when the recipient has provided assurances that they will not be used for the manufacture of nuclear weapons or nuclear explosive devices and when the transfer is safeguarded under IAEA comprehensive safeguards."
+    }
+  },
+  "zangger_committee": {
+    "frame": "nuclear export trigger list / NPT Article III implementation",
+    "year": 1971,
+    "status": "in_force",
+    "category": "export_control",
+    "type": "multilateral",
+    "passages": {
+      "principle": "Members agree that when exporting trigger list items to non-nuclear-weapon states, they will require IAEA safeguards to be applied to those exports and to facilities using those exports."
+    }
+  },
+  "mtcr_1987": {
+    "frame": "missile technology and WMD-capable delivery system export controls",
+    "year": 1987,
+    "status": "in_force",
+    "category": "export_control",
+    "type": "multilateral",
+    "passages": {
+      "guidelines": "Partners agree to exercise restraint in the transfer of rockets, unmanned air vehicles, and related technology capable of delivering weapons of mass destruction. Category I items — complete systems capable of delivering a payload of 500 kg or more to a range of at least 300 km — are subject to a strong presumption of denial for transfer."
+    }
+  },
+  "australia_group_1985": {
+    "frame": "chemical and biological precursor and equipment export controls",
+    "year": 1985,
+    "status": "in_force",
+    "category": "export_control",
+    "type": "multilateral",
+    "passages": {
+      "principles": "Participants maintain national export licensing controls on items of most concern for potential misuse in chemical or biological weapons programmes, including precursor chemicals, biological agents, and dual-use equipment, and exchange information on suspicious export license applications."
+    }
+  },
+  "laws_drones_2023": {
+    "frame": "regulation of lethal autonomous weapons systems and meaningful human control",
+    "year": 2023,
+    "status": "negotiating",
+    "category": "autonomous_emerging",
+    "type": "multilateral",
+    "passages": {
+      "laws_resolution_2023": "The General Assembly, recognizing the serious challenges and concerns raised by autonomous weapons systems, underlines the urgent need for the international community to address the challenges and concerns raised by lethal autonomous weapons systems, and stresses the importance of ensuring that international humanitarian law, including the principles of distinction, proportionality and precaution in attack, is upheld in the development and use of such systems.",
+      "ccw_gge_guiding_principles": "Human responsibility for decisions on the use of weapons systems must be retained since accountability cannot be transferred to machines. This should be considered across the entire life cycle of the weapons system. Existing obligations under international humanitarian law, including the law of armed conflict, apply fully to all weapons systems, including the potential development of lethal autonomous weapons systems.",
+      "meaningful_human_control": "States should ensure meaningful human control over critical functions of weapons systems, including the selection of, and decisions to engage, specific targets. Human-machine interaction must ensure that the potential use of weapons systems is in compliance with applicable international law, in particular international humanitarian law."
+    }
+  },
+  "att_drones_2013": {
+    "frame": "responsible transfer obligations applied to armed drones and autonomous systems",
+    "year": 2013,
+    "status": "in_force",
+    "category": "conventional",
+    "type": "multilateral",
+    "passages": {
+      "att_drone_application": "The transfer of armed unmanned aerial vehicles and remotely piloted aircraft systems falls within the scope of the Arms Trade Treaty, which covers battle tanks, armoured combat vehicles, large-calibre artillery systems, combat aircraft, attack helicopters, warships, missiles and missile launchers, and small arms and light weapons. Exporting States Parties must assess the risk that drones to be exported could be used to commit serious violations of international humanitarian law or human rights law.",
+      "risk_assessment_drones": "Prior to authorization of export of armed drones or related components, each exporting State Party shall assess the potential that the systems could be used to commit or facilitate a serious violation of international humanitarian law, taking into account the risk of diversion, the recipient state's record of compliance with international obligations, and the potential for these systems to be used for targeted killings or extrajudicial executions."
+    }
+  }
+}
