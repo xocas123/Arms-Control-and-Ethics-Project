@@ -1,0 +1,30 @@
+data_dir: data/
+output_dir: output/
+ungdc_path: data/raw/ungdc/
+treaties_path: data/raw/treaties/
+voting_path: data/raw/unvotes/
+
+year_start: 1970
+year_end: 2023
+focus_start: 2000
+focus_end: 2023
+
+embedding_model: all-MiniLM-L6-v2
+bertopic_min_topic_size: 15
+lda_k_range: [5, 10, 15, 20, 25, 30]
+dtm_n_topics: 15
+umap_n_neighbors: 15
+umap_n_components: 5
+hdbscan_min_cluster_size: 15
+
+keyword_window_size: 3
+embedding_similarity_threshold: 0.35
+
+weights:
+  treaty_anchor_similarity: 0.30
+  voting_score: 0.25
+  humanitarian_topic_pct: 0.20
+  commitment_strength: 0.15
+  care_harm_loading: 0.10
+
+random_seed: 42
