@@ -55,6 +55,21 @@ Integrates regime classification with treaty adoption curves, arms trade data, a
 
 ---
 
+## Cross-Pipeline Analysis: Rhetoric vs. Arms Trade Reality
+
+This project cross-references the NLP pipeline with the `arms-trade-network` pipeline to test whether countries practice what they preach.
+
+| ID | Analysis | Key Finding |
+|----|----------|-------------|
+| I1 | Hypocrisy Fingerprint | Treaty fluency predicts *worse* behavior (CCM similarity r=0.215, p=0.035) |
+| I2 | Community-Rhetoric Alignment | Arms trade communities show negative rhetorical alignment (mean silhouette = -0.235) |
+| I3 | ATT Language vs. Compliance | Countries fluent in ATT language are not more compliant |
+| I4 | Moral Foundations vs. Violations | Care/harm framing does not anti-correlate with violations |
+| I5 | Regime Transition Lag | Democratic backsliding correlates with rising arms trade centrality |
+| I6 | P5 Hypocrisy Profile | P5 use less humanitarian framing (0.66 vs 0.76) but score higher on treaty language similarity |
+
+---
+
 ## Quick Start
 
 ```bash
@@ -71,6 +86,9 @@ python run.py --fast
 
 # Resume from checkpoint
 python run.py --resume
+
+# Cross-pipeline analysis
+python run_cross_analysis.py
 ```
 
 ### Cluster (SLURM)
